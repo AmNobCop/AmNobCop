@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nob, a Front-End Developer.
+### Hi there 👋 I'm Nob, a Back-End Developer.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmNobCop&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 Random Joke:
